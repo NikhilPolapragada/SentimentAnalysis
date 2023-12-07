@@ -50,9 +50,7 @@ python predict.py
 * [Numpy](https://numpy.org/) - Scientific computing with Python
 * [Pickle](https://docs.python.org/3/library/pickle.html) - Serialization of the trained model
 
-## Author
 
-* **Sultan.aj** - [https://github.com/Sultan-aj](https://github.com/Sultan-aj)
 
 ## License
 
